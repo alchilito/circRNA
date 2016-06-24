@@ -1,0 +1,17 @@
+# data files
+*.bam
+*.bed
+*.xls
+*.xlsx
+*.csv
+*.tsv
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.wig
+
+# random OS stuff
+*~
+*.pyc
+
